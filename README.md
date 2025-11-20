@@ -1,4 +1,4 @@
-# Gift of the Givers Management Web App (GOG MVC)
+# Donation Tracker Web App (GOG MVC)
 
 This project is a simple, core-concept ASP.NET Core MVC web application designed to demonstrate fundamental architectural patterns, including Model-View-Controller (MVC) data flow, Razor View rendering, form handling (GET/POST), and using EF Core for data persistence.
 
